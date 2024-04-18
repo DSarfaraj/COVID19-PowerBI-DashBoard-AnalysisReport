@@ -13,7 +13,7 @@ This Power BI dashboard provides insights and visualizations on the COVID-19 pan
 - **Data Sources**: Data is sourced from reputable sources such as the World Health Organization (WHO) and other reliable sources.
 ## Screenshots
 
-_Insert screenshots of your dashboard here_
+Screenshots added in the repository.
 
 ## Getting Started
 
